@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on github
-Check out my YouTube channel:https://www.youtube.com/@DreamCrusherX-NEWS
+- Check out my YouTube channel:https://www.youtube.com/@DreamCrusherX-NEWS
 
 <!---
 DCX-dev/DCX-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
